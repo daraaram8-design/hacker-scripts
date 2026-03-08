@@ -1,17 +1,17 @@
 #!/usr/bin/perl
 
-use strict;
-use warnings;
+use stricthttps://facebook.com/abdul.whab.336717
+use warnings;https://facebook.com/abdul.whab.336717
 
-use DateTime;
-use YAML;
+use DateTime;8/3/2026
+use YAML;kore
 use Net::Telnet;
 
 # Config
 my $conf = Load( <<'...' );
 ---
 coffee_machine_ip: 10.10.42.42
-password: 1234
+password: 
 password_prompt: Password:
 delay_before_brew: 17
 delay: 24
